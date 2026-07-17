@@ -1,7 +1,8 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
 }
 
 html,
@@ -14,6 +15,25 @@ main {
 a {
     text-decoration: none;
     color: black;
+}
+
+#logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    color:white;
+    text-decoration:none;
+    font-size:30px;
+    font-weight:700;
+}
+
+#logo i{
+    color:#00d4ff;
+    font-size:32px;
+}
+
+#logo:hover{
+    transform:scale(1.03);
 }
 
 
