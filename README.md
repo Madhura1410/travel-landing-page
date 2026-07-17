@@ -6,7 +6,8 @@ A modern, responsive Travel Landing Page built using **HTML5** and **CSS3**. The
 
 👉 View Live Website
 
-https://Madhura1410.github.io/travel-landing-page/
+https://madhura1410.github.io/travel-landing-page/
+
 
 
 ✨ Features
